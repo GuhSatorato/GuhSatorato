@@ -6,7 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/guh_xinin)
 
 <div>
-  <a href="https://github.com/Leandroooh">
+  <a href="https://github.com/GuhSatorato">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GuhSatorato&show_icons=true&theme=radical"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuhSatorato&layout=compact&theme=dark"/> 
 </div
