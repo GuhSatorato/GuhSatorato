@@ -5,9 +5,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guh_satorato)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/guh_xinin)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GuhSatorato&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/Leandroooh">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GuhSatorato&show_icons=true&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuhSatorato&layout=compact&theme=dark"/> 
+</div
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuhSatorato&layout=compact)-->
+
+<!-- [Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GuhSatorato&show_icons=true&theme=radical)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuhSatorato&layout=compact&theme=dark) -->
 
 ## Tecnologias que eu uso
 
@@ -20,11 +26,17 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-<!--💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+## Sobre mim.
+👋 Olá! Sou o Gustavo Henrique Satorato. Estudante de Análise e Desenvolvimento de Sistemas na Uningá, ex-aluno do IFPR Astorga, e apaixonado por tecnologia, games e programação.
 
+🎮 Nas horas vagas, faço lives jogando de tudo um pouco — sempre trocando ideia e curtindo a interação com a galera.
+
+💻 Estou trilhando meu caminho como desenvolvedor, focando em aprender cada vez mais e transformar código em solução. Curto mexer com projetos em FiveM, desenvolvimento web e automações.
+
+🚀 Meu objetivo? Me tornar um programador completo e seguir crescendo nessa área que eu tanto amo.
+<!--
 ### Últimos videos:
 - [Como ZUSTAND deixa seu projeto profissional](https://youtu.be/nutJS8u4RtQ)<br/>
 - [Criando Aplicativo + IA profissional do zero](https://youtu.be/A2yPW3ZSv_A)<br/>
 - [Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥](https://youtu.be/PqRe0Q9b5QI)<br/>
 - [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
---> 
