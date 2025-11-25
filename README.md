@@ -5,11 +5,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guh_satorato)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/guh_xinin)
 
-<div>
+<div align="center">
   <a href="https://github.com/GuhSatorato">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GuhSatorato&show_icons=true&theme=radical"/>
-  <!--<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuhSatorato&layout=compact&theme=dark"/> -->
-</div
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuhSatorato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuhSatorato&layout=compact&theme=radical"/>
+  </a>
+</div>
 
 
 <!-- [Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GuhSatorato&show_icons=true&theme=radical)
